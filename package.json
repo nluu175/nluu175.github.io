@@ -1,6 +1,6 @@
 {
   "name": "portfolio-react",
-  "homepage": "https://nluu175.github.io",
+  "homepage": "https://nluu175.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "react-scroll": "^1.8.9",
     "react-type-animation": "^3.0.1",
     "styled-components": "^5.3.11",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2"  
   },
   "scripts": {
     "start": "react-scripts start",
